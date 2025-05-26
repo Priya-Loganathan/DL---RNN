@@ -29,9 +29,9 @@ Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
-### Name: Santhosh Kumar 
+### Name: Delli Priya L 
 
-### Register Number: 212223100051
+### Register Number: 212222230029
 
 ```python
 import numpy as np
